@@ -3,7 +3,9 @@
     "editor.formatOnType": true,
     "editor.formatOnSave": true,
     "cSpell.ignoreWords": [
-        "mongodb"
+        "mongodb",
+        "react",
+        "toastify"
     ],
     "editor.fontSize": 15,
     "workbench.colorTheme": "Cobalt2",
